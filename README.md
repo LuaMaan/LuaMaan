@@ -1,47 +1,49 @@
 # 🌸 Olá, eu sou a Lua Samara 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-☕ Futura Desenvolvedora Back-end Java  
-🌷 Em constante evolução  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🤖 Futura Engenheira de Testes com IA (QA + Inteligência Artificial)
 
 ---
 
 ## 💖 Sobre mim
 
-Atualmente direciono meus estudos para o desenvolvimento Back-end com Java e Spring Boot,  
-fortalecendo minha base em lógica, APIs REST e banco de dados.
+Atualmente direciono meus estudos para Engenharia de Testes de Software, com foco em automação de testes, qualidade de software e aplicação de Inteligência Artificial no processo de testes.
 
-Também estudo inglês 🌎✨  
+Estou construindo uma base sólida em lógica de programação, Python, testes manuais, testes automatizados e ferramentas utilizadas por profissionais de QA.
 
-Acredito que consistência constrói grandes profissionais 🚀  
+Também estudo inglês, buscando me preparar para oportunidades no mercado de tecnologia.
 
 ---
 
 ## 🌸 Tecnologias & Estudos
 
-![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-ff85c1?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ffb6d9?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ff99cc?style=for-the-badge&logo=git&logoColor=white)
-![English](https://img.shields.io/badge/English-ffc0cb?style=for-the-badge&logo=googletranslate&logoColor=white)
+* 🐍 Python
+* ✅ Testes Manuais
+* 🤖 Automação de Testes
+* 🧠 Inteligência Artificial aplicada a QA
+* 🌐 APIs REST
+* 🗄️ Banco de Dados
+* 🌱 Git & GitHub
+* 🇺🇸 Inglês 
 
 ---
 
 ## 🌷 Atualmente focada em
 
-• Java  
-• Spring Boot  
-• APIs REST  
-• Banco de Dados  
-• Inglês para tecnologia  
+• Lógica de Programação
+• Python
+• Engenharia de Testes (QA)
+• Automação de Testes
+• Inteligência Artificial aplicada a Testes
+• APIs REST
+• Banco de Dados
+• Inglês 
 
 ---
 
 ## 🎯 Objetivo
 
-Me tornar uma Desenvolvedora Back-end Java sólida,  
-construindo aplicações estruturadas e bem organizadas 💕
+Me tornar uma Engenheira de Testes especializada em Inteligência Artificial, desenvolvendo soluções que unam qualidade, automação e inovação para criar softwares cada vez mais confiáveis.
 
 ---
 
-✨ *"Pequenos passos também levam longe."*
